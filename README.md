@@ -2,7 +2,7 @@
 
 **Ryujinx Nintendo Switch Emulator** v1.1.1509 is canary for ryujinx mods and ryujinx ldn. LayeredFS, 4K 60, MoltenVK, Amiibo. Firmware and keys come from a Switch you own.
 
-<img width="1280" height="1338" alt="images1" src="https://github.com/user-attachments/assets/2ef45f16-5bb7-45d7-b302-f8eca1001b85" />
+<img width="280" height="280" alt="images1" src="https://github.com/user-attachments/assets/2ef45f16-5bb7-45d7-b302-f8eca1001b85" />
 <img width="1200" height="675" alt="images2" src="https://github.com/user-attachments/assets/c49cc1f4-557a-4509-bbfd-3787c67950f6" />
 
 ## What's new in v1.1.1509
